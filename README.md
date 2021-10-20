@@ -1,6 +1,6 @@
 # Time Travel
 
-The `time_travel` gem implements a data-modelling concept known as bitemporal data modelling, which makes it easy to record and trace historical changes to your data. Its similar to versioning tables, but its main difference is that all historical data is tracked in the same table, making it always available and easily accessible.
+The `time_travel` gem implements a data-modelling concept known as bitemporal data modelling(reference: https://www.dataversity.net/bitemporal-data-modeling-learn-history/#), which makes it easy to record and trace historical changes to your data. Its similar to versioning tables, but its main difference is that all historical data is tracked in the same table, making it always available and easily accessible.
 
 ## Installation
 
